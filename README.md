@@ -1,4 +1,4 @@
-# distancia-capitais
+# tabela de distancia de capitais
 projeto de tabela de distancias entre capitais brasileiras
 
 Recife<br>
